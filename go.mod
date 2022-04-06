@@ -1,4 +1,4 @@
-module github.com/caddy-dns/he
+module github.com/goldsoft8888/he-dns
 
 go 1.16
 
